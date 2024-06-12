@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class fourteen  {
+public class SwappingIndex  {
     public static void main(String[] args) {
         int[] arr = {1,3,23,9,17};
         swap(arr,0,1);

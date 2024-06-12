@@ -1,4 +1,4 @@
-public class nine {
+public class Functions {
     public static void main(String[] args) {
         // overloading
         hit(78);

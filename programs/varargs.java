@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class eight {
+public class varargs {
     //varargs
     public static void main(String[] args) {
         meth(2,4,5,67);

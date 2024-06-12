@@ -1,4 +1,4 @@
-public class fifteen {
+public class LinearSearch {
     public static void main(String[] args) {
         // linear search program
         int [] nums = {23, 34, 42, 53, 25, 3};

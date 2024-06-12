@@ -1,4 +1,4 @@
-public class eighteen {
+public class MinNumber {
     public static void main(String[] args) {
         //Minimum number in array
         int[] arr = {32, 23, 52, 67,3, 64};

@@ -1,4 +1,4 @@
-public class four {
+public class Reverse{
     public static void main(String[] args) {
         int num = 34923;
 
