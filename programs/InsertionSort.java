@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class twentyseven {
+public class InsertionSort {
     public static void main(String[] args) {
         //insertion sort algorithm
         int[] arr = {4, 5, 3, 1, 2};

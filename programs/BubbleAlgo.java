@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class twentyfour {
+public class BubbleAlgo {
     public static void main(String[] args) {
         //bubble sort algorithm
          int[] arr = {3, 4, 23, -22, -24};

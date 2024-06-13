@@ -1,4 +1,4 @@
-public class sixteen {
+public class SearchInString {
     public static void main(String[] args) {
         //Search in string
         String name = "Pranav";

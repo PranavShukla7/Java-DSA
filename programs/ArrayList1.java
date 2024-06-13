@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-public class thirteen   {
+public class ArrayList1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         //Arraylist

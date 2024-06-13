@@ -1,6 +1,7 @@
-public class twenty {
+public class Palindrome {
     public static void main(String[] args) {
-       Palindrome(313);
+
+        Palindrome(313);
     }
 
     static void Pythagoras(int a, int b, int c) {

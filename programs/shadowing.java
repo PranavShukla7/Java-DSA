@@ -1,4 +1,4 @@
-public class seven {
+public class shadowing {
     //shadowing
     static int x = 90;
 

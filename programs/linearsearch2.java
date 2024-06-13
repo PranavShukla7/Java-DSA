@@ -1,4 +1,4 @@
-public class seventeen {
+public class linearsearch2 {
     //Search in range
     public static void main(String[] args) {
         int[] arr = {23, 34, 43, 53, 52, 66};

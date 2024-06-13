@@ -1,6 +1,6 @@
 import static java.util.Arrays.binarySearch;
 
-public class twentyone {
+public class Binary {
     public static void main(String[] args) {
         int [] arr = {-12, -11, 1, 4 , 5 , 7 ,8 , 13, 15};
         int target = 5;

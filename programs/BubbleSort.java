@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 import static java.util.Collections.swap;
 
-public class twentyfive {
+public class BubbleSort {
     public static void main(String[] args) {
         //selection sort algorithm
         int[] arr = {3, 1, 5, 4, 2};

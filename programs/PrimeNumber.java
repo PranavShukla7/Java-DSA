@@ -1,4 +1,4 @@
-public class nineteen {
+public class PrimeNumber {
     public static void main(String[] args) {
         int lowerlimit = 4;
         int upperlimit = 100;

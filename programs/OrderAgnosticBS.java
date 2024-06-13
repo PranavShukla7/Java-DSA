@@ -1,4 +1,4 @@
-public class twentytwo {
+public class OrderAgnosticBS {
     public static void main(String[] args) {
         int[] arr = {88, 22, 44, 40, 37, 22, 11, 7, -2, -4};
         int target = 22;
